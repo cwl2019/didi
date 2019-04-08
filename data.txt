@@ -1,0 +1,6 @@
+12345678910
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+)!@#$%^&*(
+end.
+#echo if u see this text,then fatal error is raising.
