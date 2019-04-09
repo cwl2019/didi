@@ -1,3 +1,6 @@
+/*********************************************************/
+/*learn github software for poor*/
+/*date:2019/04/09*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
